@@ -1,1 +1,1 @@
-# KarskMetni-Duzeltme
+# Karisik-Metni-Duzeltme
