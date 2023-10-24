@@ -1,0 +1,1 @@
+# Kar-s-k-Metni-Duzeltme
