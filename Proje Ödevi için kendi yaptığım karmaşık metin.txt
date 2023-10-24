@@ -1,0 +1,16 @@
+Metnin kendi hali = 
+Selam ben Sahan Aytekin Fatih Sultan Mehmet Vakıf Universitesi bilgisayar muhendisligi 1.sınıf ogrencisiyim Fatih Sultan Mehmet Vakıf Universitesi Sutluce yerleskesinde bulunmaktadır
+ 
+Karmaşık metin =
+lamSe enb hanSa ekinAyt tihFa ultanS hmetMe kıfVa ersitesiUniv isayarbilg hendisligimu ıf1.sın ncisiyimogre atihF ultanS etMehm ıfVak itesiUnivers luceSut eskesindeyerl maktadırbulun
+
+Sözlük = 
+1.sınıf sutluce yerleskesinde universitesi vakıf mehmet fatih sultan ogrencisiyim bilgisayar muhendisligi ben sahan aytekin selam bulunmaktadır
+
+
+-----------------------------------------------------
+Karmaşık Metin = 
+lamSe enb hanSa ekinAyt
+
+Sözlük =
+ben sahan aytekin selam merhaba bilgisayar
